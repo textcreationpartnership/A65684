@@ -1,0 +1,253 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short history of the life and death of the act made the 35th of Elizabeth, cap. I intituled, An act to retain the Queen's Majesties subjects in their due obedience : as also, the act commonly called the Conventicle act ... : wherin it plainly appears by the several records, that both the said acts are expired, and have no force in law / ... by E.W.</title>
+            <author>Whitaker, Edward.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65684</idno>
+            <idno type="STC">Wing W1707</idno>
+            <idno type="STC">ESTC R9671</idno>
+            <idno type="EEBO-CITATION">12029894</idno>
+            <idno type="OCLC">ocm 12029894</idno>
+            <idno type="VID">52742</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65684)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 52742)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 882:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short history of the life and death of the act made the 35th of Elizabeth, cap. I intituled, An act to retain the Queen's Majesties subjects in their due obedience : as also, the act commonly called the Conventicle act ... : wherin it plainly appears by the several records, that both the said acts are expired, and have no force in law / ... by E.W.</title>
+                  <author>Whitaker, Edward.</author>
+               </titleStmt>
+               <extent>[2], 9 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Fox ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Edward Whitaker.  Cf. NUC pre-1956.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Conventicle act. --  1670.</term>
+               <term>Freedom of religion --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Elizabeth, 1558-1603.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:52742:1"/>
+            <!-- PDF PAGE 19 -->
+            <pb facs="tcp:52742:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 19 -->
+            <p>A SHORT HISTORY OF THE <hi>Life and Death</hi> OF The ACT made The 35th of <hi>Elizabeth,</hi> Cap. 1. INTITULED, <hi>An</hi> Act <hi>to retain the Queen's Majeſties Subjects in their due Obedience.</hi>
+            </p>
+            <p>AS ALSO, The ACT commonly called The Conventicle Act, Made the 16th of His preſent Majeſty, K. <hi>Cha.</hi> 2d. INTITULED, <hi>An</hi> Act <hi>to Prevent and Suppreſs Seditious Conventicles.</hi>
+            </p>
+            <p>WHEREIN It plainly appears by the ſeveral Records, That both the ſaid <hi>ACTS</hi> are Expired, And have no FORCE IN LAW.</p>
+            <p>Publiſhed for Satisfaction of His Majeſties Proteſtant Subjects; By <hi>E. W.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Thomas Fox,</hi> at the Sign of the <hi>Angel,</hi> in <hi>Weſt<g ref="char:EOLhyphen"/>minſter-Hall,</hi> 1681.</p>
+         </div>
+      </front>
+      <body>
+         <div type="history">
+            <pb facs="tcp:52742:2"/>
+            <!-- PDF PAGE 20 -->
+            <pb n="1" facs="tcp:52742:2"/>
+            <!-- PDF PAGE 20 -->
+            <head>
+               <hi>A Short HISTORY</hi> Of the Life and Death of the Statutes of the <hi>35th.</hi> Q. <hi>Eliz.</hi> And <hi>16.</hi> K. <hi>C. 2d.</hi> againſt <hi>Conventicles,</hi> &amp;c.</head>
+            <div type="introduction">
+               <head>The INTRODUCTION.</head>
+               <p>I Make no doubt, but this Paper will meet with much oppoſition, eſpeci<g ref="char:EOLhyphen"/>ally from ſuch as are willing, theſe Laws ſhould be put in execution, againſt Diſſenting Proteſtants; but the Author conſidering the miſeries ſuch an Act (if it were in force) might bring, upon His Majeſties good and peaceable Subjects, and being fully and clearly convinced in his Conſcience, that the Act of the 35<hi rend="sup">th.</hi> of <hi>Q. Eliz.</hi> is not in force, thought it his du<g ref="char:EOLhyphen"/>ty to the publick, to ſtate the Caſe as in Truth it lies, without partiality, and there leave it to all Reaſonable Men, to Conſider and Determine the Matter, as they ſhall find juſt Cauſe and Reaſon: And hopes that upon a juſt Enquiry if they ſhall find him Miſtake the Caſe, ſome abler Perſon will better inform him and the VVorld; in the mean time he hopes the Integrity and Honeſty of the Cauſe, will receive no prejudice from the plainneſs and illaw-like Terms, made uſe of by him in the following Lines.</p>
+            </div>
+            <div type="body_of_history">
+               <pb n="2" facs="tcp:52742:3"/>
+               <!-- PDF PAGE 21 -->
+               <p>THerefore to come to the Matter without fur<g ref="char:EOLhyphen"/>ther delay, the Reader muſt take notice the Act made the 35 of <hi>Eliz. cap.</hi> 1. which is Intituled an Act to retain the Queens Majeſties Subjects in their due O<g ref="char:EOLhyphen"/>bedience, was only a Temporary Act, as appears plainly by the laſt clauſe of the Chapter, <hi>Viz.</hi>
+               </p>
+               <p>
+                  <q>Provided alſo that every Perſon that ſhall abjure by force of this Act,<note place="margin">See 35 <hi>E<g ref="char:EOLhyphen"/>liz.</hi> cap. 1. Sect. 13.</note> or refuſe to abjure, being thereunto required as aforeſaid, ſhall forfeit and looſe to Her Majeſty all his Goods and Chattels for ever; and ſhall fur<g ref="char:EOLhyphen"/>ther looſe all his Lands, Temements, and Hereditaments, for, and dure<g ref="char:EOLhyphen"/>ing the Life onely of ſuch Offender and no longer: And that the Wife of any Offender by force of this Act ſhall not looſe her Dower, nor that any Corruption of Blood ſhall grow by reaſon of any Offence mentioned in this Act. But that the Heir of ſuch Offender by force of this Act ſhall and may after the Death of every Offender, have and enjoy the Lands, Tennements, and Hereditaments of ſuch Offender, as if this Act had not been made, and this Act to continue no longer then to the end of the next Sesſions of Parliament.</q>
+               </p>
+               <p>This Parliament began the 19th. Day of <hi>February,</hi>
+                  <note place="margin">
+                     <hi>Rot.</hi> 35 Eliz.</note> in the 35 of the <hi>Queen,</hi> and was Diſſolved the 10th of <hi>April</hi> following.</p>
+               <p>The next Parliament that followed, (which ended the Sesſions mentioned in that Act of the 35,<note place="margin">Rot. <hi>39.</hi> E<g ref="char:EOLhyphen"/>liz.</note>) began the 24th of <hi>Octob.</hi> in the 39th Year of the <hi>Queen,</hi> and there continued until the Diſſolution thereof, which was the 9th of <hi>February</hi> next following the Year 1597, as by the Roll appears.</p>
+               <p>In this Seſſions this Act was Revived with divers others,<note place="margin">
+                     <hi>See</hi> 39 E<g ref="char:EOLhyphen"/>liz. <hi>cap.</hi> 18. <hi>Sect.</hi> 26.</note> by an Act Intituled, <hi>An Act for the Reviving, continuance, perfecting and repealing divers Statutes;</hi> which Enacts that the 35 of <hi>Eliz.</hi> ſhall continue and endure in form and Effect until the end of the next Parlia<g ref="char:EOLhyphen"/>ment,<note place="margin">
+                     <hi>Sect.</hi> 41.</note> next enſuing.</p>
+               <p>
+                  <pb n="5" facs="tcp:52742:3"/>
+                  <!-- PDF PAGE 21 -->
+The next Parliament began the 27th of <hi>October</hi> in the 43 of <hi>Elizabeth,</hi> and continued until the Diſ<g ref="char:EOLhyphen"/>ſolution ther<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>of,<note place="margin">Vide Rot. 43 <hi>Eliz.</hi>
+                  </note> being the 19th of <hi>December</hi> then next following, 1601. as appears by the Roll.</p>
+               <p>In this Seſſion the 35 of <hi>Eliz.</hi> is again revi<g ref="char:EOLhyphen"/>ved, with others, by the Statute Entituled,<note place="margin">Cap. 9. <hi>Sect.</hi> 18.</note> 
+                  <hi>An Act for continuing divers Statutes, and Repeal of ſome others;</hi> which enacts,<note place="margin">Sect. 27.</note> That the ſame be continued and re<g ref="char:EOLhyphen"/>main in force, until the end of the firſt Seſſion of the next Parliament.</p>
+               <p>The next Seſſion of Parliament, began the 19th day of <hi>March</hi> in the firſt year of King <hi>James,</hi> and ended that Seſſion the 7th of <hi>July</hi> 1604. as appears by the Roll.<note place="margin">Vid. Rot. 1 <hi>Jac.</hi>
+                  </note>
+               </p>
+               <p>The 35 of <hi>Eliz.</hi> again continued in this Seſſion,<note place="margin">1 <hi>Jac.</hi> c. 25. Sect. 13.</note> among divers others, by the Act intituled <hi>An Act for continuing and reviving of divers Statutes, and for repealing divers others.</hi>
+               </p>
+               <p>Which Statute enacts, the ſame ſhall be continu<g ref="char:EOLhyphen"/>ed,<note place="margin">S. 24.</note> and remain in force until the end of the firſt Seſſion of the next Parliament.</p>
+               <p>The ſecond and next Seſſion of Parliament,<note place="margin">Rot. 3 <hi>Jac.</hi>
+                  </note> be<g ref="char:EOLhyphen"/>gan and holden by Prorogation the 5th day of <hi>No<g ref="char:EOLhyphen"/>vember,</hi> in the Third of King <hi>James,</hi> and ended the 27th of <hi>May</hi> next, and was then prorogued to the 18th of <hi>Nov.</hi> 1606.</p>
+               <p>Now obſerve, that in this Seſſion there was no Reviver or Continuance of the 35th of <hi>Eliz.</hi> there<g ref="char:EOLhyphen"/>fore it abſolutely ceaſed, and was not in force, but as if the ſame had never been.</p>
+               <p>The next Parliament began from the laſt Proro<g ref="char:EOLhyphen"/>gation of the 18th of <hi>November</hi> in the Fourth of King <hi>James,</hi>
+                  <note place="margin">See the Roll 4 <hi>Jac.</hi>
+                  </note> and ended that Seſſion the 4th day of <hi>July</hi> 1607. and then prorogued until the 16th day of <hi>November</hi> following.</p>
+               <p>
+                  <pb n="6" facs="tcp:52742:4"/>
+                  <!-- PDF PAGE 22 -->
+                  <note place="margin">See the Roll 7 <hi>Jac.</hi>
+                  </note>The next Parliament, being the Fourth Seſſions, began and holden by Prorogation the 19th day of <hi>February</hi> in the Seventh year of King <hi>James,</hi> and continued until the 23d of <hi>July,</hi> and then pro<g ref="char:EOLhyphen"/>rogued until the 16th of <hi>October</hi> next following, 1610.</p>
+               <p>In all which ſeveral Seſſions there was no man<g ref="char:EOLhyphen"/>ner of Continuance or Revivor of the 35th of <hi>Eli<g ref="char:EOLhyphen"/>zabeth.</hi> So it is moſt plain, the Act was expi<g ref="char:EOLhyphen"/>red, and wholly diſcontinued from the 27th of <hi>May,</hi> in the Third of King <hi>James</hi> to the 21th of King <hi>James.</hi>
+               </p>
+               <p>
+                  <note place="margin">See the Roll 21 <hi>Jac.</hi>
+                  </note>Now the next Parliament that makes any menti<g ref="char:EOLhyphen"/>on of the 35 of <hi>Eliz.</hi> was the Parliament which be<g ref="char:EOLhyphen"/>gan the 19th day of <hi>February</hi> in the 21th of King <hi>James,</hi> and was continued to the 29th day of <hi>May</hi> following, and then prorogued till the ſecond day of <hi>November</hi> 1624.</p>
+               <p>In this Seſſion it is Enacted by the Statute in<g ref="char:EOLhyphen"/>tituled,<note place="margin">11 <hi>Jac. c.</hi> 28.</note> 
+                  <hi>An Act for continuing and reviving of di<g ref="char:EOLhyphen"/>vers Statutes, and repeal of divers others;</hi> in which is included the 35th of <hi>Eliz.</hi> this Clauſe, <hi>viz.</hi> 
+                  <q>ſhall, by Vertue of this Act, be adjudged ever ſince the Seſſion of Parliament in the 7th year of his Majeſties Reign of <hi>England,</hi> to have been of ſuch Force and Effect, as the ſame were the laſt day of that Seſſion, and from thenceforth un<g ref="char:EOLhyphen"/>til the end of the firſt Seſſion of the next Parlia<g ref="char:EOLhyphen"/>ment.</q>
+               </p>
+               <p>Which Clauſe in the Act at firſt ſeems as if the ſame 35th of <hi>Eliz.</hi> were again revived, but conſi<g ref="char:EOLhyphen"/>der the words as they lye, and it cannot be ſo adjudged; which appears plainly thus:</p>
+               <p>
+                  <pb n="7" facs="tcp:52742:4"/>
+                  <!-- PDF PAGE 22 -->
+You have obſerved, as above is hinted, the laſt Revivor of that Statute was by the 1 <hi>Jac.</hi> cap. 25. to continue to the end of the firſt Seſſion of the next Parliament; which Seſſion, meant and expreſs'd, was the ſecond Seſſion in King <hi>James</hi> his Reign, and began the 5th of <hi>November</hi> in the Third of that King, and ended that Seſſion the 20th of <hi>May</hi> next, and then the Statute of the 35th of <hi>Elizabeth</hi> ceaſed, as is moſt plain, becauſe that in all that Seſſion of 3 <hi>Jacobi,</hi> it was never revived; ſo that the Seſſion which began and ended the 7th of King <hi>James,</hi> ſpoken of in this Statute of the 21th <hi>Jacobi,</hi> in the words before, <hi>viz.</hi> 
+                  <q>To have been of ſuch Force and Effects, as the ſame were the laſt day of that Seſſion, did not retain or keep in force the ſaid 35th of <hi>Elizabeth.</hi>
+                  </q>
+               </p>
+               <p>And how can it poſſibly be that the 35 of <hi>Eliz.</hi> was in force, either the beginning or end of that Seſſion, of the 7th of King <hi>James,</hi> ſpoken of in this laſt-recited Statute, when it is plain, that it was expired long before? If ſo, then this Statute of 21 <hi>Jacobi</hi> can no way ſet it up again; for this of the 21 of King <hi>James</hi> onely ſets up ſuch as was in force in that Seſſion of the 7th of King <hi>James,</hi> and no otherwiſe.</p>
+               <p>But, to proceed. In the next Parliament,<note place="margin">1 <hi>Car.</hi> c. 17. The Roll 1 <hi>Car. prim.</hi>
+                  </note> begun and holden at <hi>Weſtminſter,</hi> the 18th day of <hi>June</hi> in the Firſt of King <hi>Charles,</hi> divers Acts paſs'd to make it a Seſſion; but, by a ſpecial Bill paſſed in the ſame Parliament, it was Enacted, <hi>viz.</hi> 
+                  <q>And all Statutes and Acts of Parliament which are to have continuance unto the end of this preſent Seſſion, ſhall be of full force after the ſaid Ad<g ref="char:EOLhyphen"/>journment, until this preſent Seſſion be fully end<g ref="char:EOLhyphen"/>ed and determined, <hi>&amp;c.</hi>
+                  </q>
+               </p>
+               <p>
+                  <pb n="8" facs="tcp:52742:5"/>
+                  <!-- PDF PAGE 23 -->
+So it is clear, all continued now as it was left the 21 of King <hi>James,</hi> but this of the 35 of <hi>Eliz.</hi> was not then in Being.</p>
+               <p>The next Parliament began the 27th of <hi>March</hi> 1627. in the Third of <hi>Car. primi,</hi> and continued to the 26th of <hi>June</hi> following, in which Parliament was made divers Statutes.</p>
+               <p>And amongſt the reſt,<note place="margin">3 <hi>Car.</hi> c. 4.</note> an Act intituled, <hi>An Act for Repeal and continuance of divers Statutes;</hi> among which is mentioned,<note place="margin">Sect. 22.</note> the 35th of <hi>Eliz.</hi> which En<g ref="char:EOLhyphen"/>acts, <hi>viz.</hi> 
+                  <q>By Vertue of this Act ſhall be and con<g ref="char:EOLhyphen"/>tinue until the End of the firſt Seſſion of the next Parliament, in Force and Effect as the ſame were the firſt day of the Seſſion of Parliament holden in the firſt year of the Reign of our Sove<g ref="char:EOLhyphen"/>reign Lord the King that now is.</q>
+               </p>
+               <p>All which cannot, in the leaſt be conſtrued to revive and ſet up the 35th of <hi>Elizabeth,</hi> for this inforces no more than what was in force the Firſt of <hi>Car. primi;</hi> and, if the 35th of <hi>Elizabeth</hi> were out the Third of King <hi>James,</hi> and not in force the 7th of King <hi>James,</hi> as is before made appear, then ſure no man will ſay the 35th of <hi>Elizabeth</hi> was in force the Firſt of K. <hi>Charles</hi> the Firſt; ſo that this of the Third of <hi>Car.</hi> 1. can have no force or colour to revive what was ſo long before dead.</p>
+               <p>From the Third of King <hi>Charles</hi> to the ſixteenth, there is no mention made of any thing relating to the 35th of <hi>Elizabeth,</hi> but in the 16th <hi>Car.</hi> it is Enacted;</p>
+               <p>
+                  <pb n="7" facs="tcp:52742:5"/>
+                  <!-- PDF PAGE 23 -->
+VIZ. <q>And be it Enacted by the Authority aforeſaid,<note place="margin">16 Car. C. 2d.</note> That the pasſing of this preſent <hi>Act,</hi> or any other <hi>Act</hi> or <hi>Acts,</hi> or his Majeſties Royal aſſent to them or any of them in this preſent Sesſion of Parliament, ſhall not be any determination of the ſaid Sesſion: and that all Statutes and Acts of Parliament, which have their continuance, or were by an Act of Parliament made in the Third Year of the Reign of His Majeſty that now is, Intituled, <hi>An Act for the Continuance and Repeal of divers Statutes continued until the end of the firſt Seſſion of the next Parliament, <hi>&amp;c.</hi>
+                     </hi> Shall be of the ſame force as they were the laſt Day of that Sesſion, and from thenceforth, until ſome other Act of Parliament be made, touching the continuance of the ſame, <hi>&amp;c.</hi>
+                  </q>
+               </p>
+               <p>Still this Act pretends to continue no more then ſuch as was continued to the Third of <hi>Car.</hi> Primi, which is juſt nothing to the purpoſe, and therefore it was no Wonder that a Doubt was pretended to be made by the over-long Parliament, commonly called, <hi>The Pen<g ref="char:EOLhyphen"/>tionary Parliament;</hi> Whether this Act of the 35 of <hi>Eliz.</hi> was in force or not; I muſt confeſs it is a very great Won<g ref="char:EOLhyphen"/>der to me, that they ſhould in the leaſt Queſtion any thing relating to it, for by the ſame Rule that once the Commons at a Committee Judged Fourteen more then Twenty-One about an Election, they might as well make a Doubt, aye, and Judge and Declare it too, That the Seſſion ending the 3 of <hi>Jacobi,</hi> might reach three Seſ<g ref="char:EOLhyphen"/>ſions their Judgement, eſpecially at that time a day.</p>
+               <p>However there comes no Queſtion about the 35 of <hi>Eliz.</hi> until the 16 <hi>Car.</hi> 2d. and then the Houſe of Com<g ref="char:EOLhyphen"/>mons haveing a mind to proſecute the Conventicklers, made an Act to prevent and ſuppreſs Seditious Conven<g ref="char:EOLhyphen"/>tickles, and begins thus, <hi>VIZ.</hi>
+               </p>
+               <p>
+                  <q>Whereas by an <hi>Act</hi> made in the 35<hi>th</hi> Year of the Reign of our late Soveraign Lady Queen <hi>Elizabeth,</hi> Intituled,<note place="margin">16 <hi>Car.</hi> 2d. Cap. 4.</note> 
+                     <hi>An Act to Retain the Queen's Majeſties Subjects in their due Obedience,</hi> hath not been put in Execution, by reaſon of ſome Doubt of late made, Whether the ſaid Act he ſtill in force, altho' it be very clear and evident: And it is hereby Declared, That the ſaid Act is ſtill in force, and ought to be put in due Execution;
+<pb n="8" facs="tcp:52742:6"/>
+                     <!-- PDF PAGE 24 -->For providing therefore of further and more ſpeedy Remedies againſt the growing and dangerous Practices of Seditious Sectaries and other Diſſoyal Perſons, who under pretence of tender Conſciences, do at their Meetings, contrive Inſur<g ref="char:EOLhyphen"/>rections, as late Experience hath ſhewed: Be it Enacted by the King's moſt Excellent Majeſty, <hi>&amp;c.</hi>
+                  </q>
+               </p>
+               <p>And by the laſt Clauſe in this Statute,<note place="margin">Sect. <hi>23.</hi> Idem.</note> is as follows: <hi>VIZ.</hi>
+               </p>
+               <p>
+                  <q>Provided alſo, and be it Enacted by the Authority aforeſaid: That this Act ſhall continue in Force for Three Years after the End of this preſent Seſſion of Parliament, and from thence forward to the end of the next Seſſion of Parliament after the ſaid three Years, and no longer.</q>
+               </p>
+               <p>This being the whole that concerned the Statute of the 35 of <hi>Eliz.</hi> it doth appear, That this laſt Statute is but one intire Statute, and that part which declares the Statute of the 35 of <hi>Eliz.</hi> to be in force, is joyned and an<g ref="char:EOLhyphen"/>nexed to the other part, and is but one Law, and hath its period at the time before prefixed; and that Declarative part dyes with the reſt, which had its end the 22d of this King, and that did continue the 35 of <hi>Eliz.</hi> but to the end of the time prefixed in the <hi>Act,</hi> and no longer: now that Seſſion being ended, in which the Three Years (ſpo<g ref="char:EOLhyphen"/>ken of in the Statute) began the 16 and 17 of <hi>Car.</hi> 2d.<note place="margin">See the Role.</note>
+               </p>
+               <p>The next Seſſion begun the 17 <hi>Car.</hi> 2d.</p>
+               <p>The next begun the 18th of <hi>September,</hi> 1666, in the 19 of <hi>Car.</hi> 2d. and ended the 8th of <hi>February</hi> following.</p>
+               <p>The next Seſſions began, after the Three Years was ex<g ref="char:EOLhyphen"/>pired,<note place="margin">See the Role.</note> the 10th of <hi>October,</hi> 1667. and ended the 9th of <hi>May,</hi> 1668, and then continued by Adjournment to the 11th. of <hi>April,</hi> 1670, and to the 24th of <hi>October</hi> following, when this Conventickle Act expired,<note place="margin">Conventicle-Act exp. the <hi>22d</hi> of <hi>Car. 2d.</hi>
+                  </note> being the 22d. of <hi>Car.</hi> 2d. as is before expreſſed.</p>
+               <p>This being the Caſe, there is no longer any pretence for the 35 of <hi>Eliz.</hi> being yet in force, notwithſtanding an Objection made, which is, that altho' the Conventickle Act be expired, and with it the Branch of the declaring part; yet it being once declared, that Declaration ſtands
+<pb n="9" facs="tcp:52742:6"/>
+                  <!-- PDF PAGE 24 -->good, notwithſtanding the <hi>Act</hi> it ſelf dye: to which Ob<g ref="char:EOLhyphen"/>jection, I anſwer, and firſt I would know if the Statute of 35 of <hi>Eliz.</hi> be expired, as undoubtedly it is, as is above ſhown before this Conventicle <hi>Act</hi> was made; if ſo, then I ſay the Declarative part in this Conventickle-Statute, cannot inforce or give Life to any thing longer then it lives it ſelf.</p>
+               <p>And then again, I would ask if the Declaring part in this Conventicle Act, after it ſelf is extinguiſhed, can be Read as a Law to inforce another, which hath no being of a Law in it ſelf, for then it neceſſarily follows, that an ex<g ref="char:EOLhyphen"/>pired Law is as authentick as a Law in being.</p>
+               <p>But to finiſh this matter, as no Man of Judgement can ima<g ref="char:EOLhyphen"/>gine any ſuch thing, ſo no Man of Honeſty, (I dare ſay) can o<g ref="char:EOLhyphen"/>vermuch grieve at the loſs of two ſuch Acts, much leſs will he ſtrain other Laws beyond their due bounds to inforce ſuch a per<g ref="char:EOLhyphen"/>nicious Law as the 35 of <hi>Eliz.</hi> was.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
